@@ -1,2 +1,2 @@
-# sppringboot-hibernate2
-springboot + hibernate + gradle
+#项目框架
+  ##springboot + hibernate + gradle
